@@ -1,6 +1,6 @@
 <?php
 
-//index.php
+
 
 include '../database_connection.php';
 
