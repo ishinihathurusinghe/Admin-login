@@ -1,6 +1,6 @@
 <?php
 
-//author.php
+
 
 include '../database_connection.php';
 
