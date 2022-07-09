@@ -1,6 +1,6 @@
 <?php
 
-//setting.php
+
 
 include '../database_connection.php';
 
