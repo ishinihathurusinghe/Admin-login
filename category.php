@@ -1,6 +1,6 @@
 <?php
 
-//category.php
+
 
 include '../database_connection.php';
 
