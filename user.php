@@ -1,6 +1,6 @@
 <?php
 
-//user.php
+
 
 include '../database_connection.php';
 
