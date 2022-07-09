@@ -1,6 +1,5 @@
 <?php 
 
-
 include '../database_connection.php';
 
 if(isset($_POST["action"]))
